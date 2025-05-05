@@ -77,7 +77,7 @@
 |--------|-------------|
 | [🔐 Role-Based Access Control](https://github.com/Divyanshu1Dubey/Role-Based-Access-Control) | Node.js backend with RBAC, image uploads, secure routing |
 | [🧠 Neural Network in Jupyter](https://github.com/Divyanshu1Dubey/NeuralNetwork) | Built a neural net from scratch, explored backprop and cost functions |
-| [🌐 Hackathon Code PU](https://github.com/Divyanshu1Dubey/PU_Code_-Hackathon-2.O) | End-to-end web solution for a university hackathon |
+| [🌐 FirstCall/PU_Hackathon Code](https://github.com/Divyanshu1Dubey/FirstCall) | A real-time, AI-driven healthcare assistant built for university hackathon challenges |
 | [📱 iPhone 16 Teaser](https://github.com/Divyanshu1Dubey/iPhone-16-release) | Designed a product landing page using HTML/CSS/JS |
 | [🛡️ Cyber Awareness Portal](https://github.com/Divyanshu1Dubey/hackthon) | Created a portal to spread cyber hygiene practices |
 
