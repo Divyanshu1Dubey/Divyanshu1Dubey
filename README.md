@@ -87,7 +87,7 @@
 </p>
 
 ---
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Divyanshu1Dubey)](https://github.com/Divyanshu1Dubey/github-readme-stats)
 ## 📅 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
