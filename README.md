@@ -1,93 +1,102 @@
-<h1 align="center">Hi there, I'm Divyanshu Dubey 👋</h1>
-<h3 align="center">🚀 A Passionate Data Scientist | Web Developer | Tech Explorer</h3>
+<h1 align="center">Hi, I'm Divyanshu Dubey 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=2nd+year+BS+Data+Science+@+IIT+Madras;Founder+of+Noble+Citizen+Foundation;Building+tuition+empire+%F0%9F%92%BC;Loves+to+create+%E2%9C%A8" alt="Typing SVG" />
-</p>
-
----
-
-## 🧠 About Me
-
-- 🎓 BS in Data Science @ IIT Madras
-- 🏗 Running a successful chain of tuition centers (100+ students)
-- 🌍 Based in Ahmedabad | Passionate educator and developer
-- 🧪 Interested in ML, Flask, and full-stack apps
-- 🔗 [LinkedIn](http://www.linkedin.com/in/divyanshu-dubey-123abc) • [GitHub](https://github.com/Divyanshu1Dubey)
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 🔥 GitHub Highlights
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Divyanshu1Dubey&show_icons=true&theme=radical&hide=stars,prs&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu1Dubey&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu1Dubey&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<!-- Snake contribution graph -->
-<h2 align="center">🐍 Watch my contribution graph snake eat my commits!</h2>
-<p align="center">
- ![Snake animation](https://github.com/divyanshu1dubey/divyanshu1dubey/blob/output/github-snake.svg)
-" />
-</p>
-
----
-
-## 💼 Cool Projects
-
-| Project | Tech | Description |
-|--------|------|-------------|
-| **🔒 Role-Based-Access-Control** | Node.js, Express, JS | Simple but powerful backend auth system w/ image uploads |
-| **🧠 NeuralNetwork** | Jupyter Notebook, Python | Custom-built neural network model |
-| **📱 iPhone-16-release** | HTML | A stylish landing page mocking Apple launches |
-| **🌐 PU Hackathon Website** | HTML/CSS | Submission site for Hackathon 2.O |
-| **🎮 Hackthon Game** | HTML/JS | A basic web-based interactive game |
-| **🌟 Noble Citizen Foundation Site** | Flask, Bootstrap | NGO website to connect volunteers and causes |
-
----
-
-## 🎸 Fun Facts
-
-- 🎧 Love creating EDM music and strumming guitar 🎶
-- 🧩 Problem-solving is my hobby
-- 💡 I learn by building & failing fast!
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:divyanshu1dubey@gmail.com"><img src="https://img.shields.io/badge/Email-ff7f50?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/divyanshu-dubey-123abc/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Divyanshu1Dubey"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BS+in+Data+Science+@+IIT+Madras;Full+Stack+Developer+%F0%9F%92%BB;Data+Science+%7C+AI+%7C+ML+Explorer;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00FFE0&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff" />
+</p>
+
+---
+
+## 💡 About Me
+
+- 🧑‍🎓 2nd Year BS in Data Science @ **IIT Madras**
+- 🔨 Founder of a successful tuition institute with 100+ students
+- 💼 Web Developer • Pythonista • Open Source Enthusiast
+- 🎯 Currently focused on: **AI + Web3 + Automation**
+- 🎸 Hobby: EDM Production, Guitar
+
+---
+
+## 🔧 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,react,nodejs,mongodb,mysql,postgres,postman,github,vscode,git,figma&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<table align="center">
+<tr>
+<td>
+
+![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyanshu1Dubey&show_icons=true&theme=radical&hide=issues&count_private=true)
+
+</td>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu1Dubey&layout=compact&theme=radical&hide=php,shell)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💼 Projects Showcase
+
+| Project | Description |
+|--------|-------------|
+| [🔐 Role-Based Access Control](https://github.com/Divyanshu1Dubey/Role-Based-Access-Control) | Node.js backend with RBAC, image uploads, and secure views |
+| [🧠 Neural Network in Jupyter](https://github.com/Divyanshu1Dubey/NeuralNetwork) | Built a simple feedforward neural net from scratch |
+| [🌐 Hackathon Code PU](https://github.com/Divyanshu1Dubey/PU_Code_-Hackathon-2.O) | Frontend + backend solution for a hackathon |
+| [📱 iPhone 16 Teaser](https://github.com/Divyanshu1Dubey/iPhone-16-release) | Stylish landing page for hypothetical iPhone release |
+| [🛡️ Cyber Awareness Portal](https://github.com/Divyanshu1Dubey/hackthon) | HTML project promoting safe digital habits |
+
+---
+
+## ⚡ Fun & Creative Add-ons
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Divyanshu1Dubey&theme=onedark&no-frame=true&column=7)
+
+---
+
+### 🗓️ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:divyanshudubey0405@gmail.com"><img src="https://img.shields.io/badge/Email-Divyanshu-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/divyanshu-dubey-123abc"><img src="https://img.shields.io/badge/LinkedIn-Divyanshu%20Dubey-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Divyanshu1Dubey"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+## 📅 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,100:6C63FF&height=120&section=footer"/>
 </p>
