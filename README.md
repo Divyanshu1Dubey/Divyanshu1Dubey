@@ -97,6 +97,10 @@
 
 ---
 
+![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyanshu1Dubey&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu1Dubey&layout=compact&theme=radical)
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,100:6C63FF&height=120&section=footer"/>
 </p>
