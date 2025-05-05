@@ -1,0 +1,15 @@
+name: GitHub Metrics
+on:
+  schedule: [{cron: "0 * * * *"}]
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@latest
+        with:
+          filename: code-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          plugin_lines: yes
