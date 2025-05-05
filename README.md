@@ -63,10 +63,14 @@
 
   ### 📅 3D Contribution Graph (Last 6 Months)
 <p align="center">
-  <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/main/profile-3d-contrib/profile-green-animate.svg" width="90%" style="max-width: 700px;" alt="3D GitHub Contribution Graph - Last 6 Months"/>
+  <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/main/profile-3d-contrib/profile-green-animate.svg" 
+       width="95%" 
+       style="max-width: 750px; border-radius: 12px; box-shadow: 0px 0px 15px rgba(0,255,224,0.4);" 
+       alt="3D GitHub Contribution Graph - Last 6 Months"/>
+  <br/>
+  <em style="color: #00ffe0; font-style: italic;">Visualizing consistency, one commit at a time.</em>
 </p>
 
-</p>
 
 ### 💬 Quote & Joke
 <p align="center">
