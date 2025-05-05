@@ -55,6 +55,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu1Dubey&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </p>
 
+---
+
+## 🌟 Featured Projects
+| Project | Description |
+|--------|-------------|
+| [🔐 Role-Based Access Control](https://github.com/Divyanshu1Dubey/Role-Based-Access-Control) | Node.js backend with RBAC, image uploads, secure routing |
+| [🧠 Neural Network in Jupyter](https://github.com/Divyanshu1Dubey/NeuralNetwork) | Built a neural net from scratch, explored backprop and cost functions |
+| [🌐 Hackathon Code PU](https://github.com/Divyanshu1Dubey/PU_Code_-Hackathon-2.O) | End-to-end web solution for a university hackathon |
+| [📱 iPhone 16 Teaser](https://github.com/Divyanshu1Dubey/iPhone-16-release) | Designed a product landing page using HTML/CSS/JS |
+| [🛡️ Cyber Awareness Portal](https://github.com/Divyanshu1Dubey/hackthon) | Created a portal to spread cyber hygiene practices |
+
+---
+
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
@@ -89,18 +102,7 @@
   <img src="https://readme-jokes.vercel.app/api?theme=dark" />
 </p>
 
----
 
-## 🌟 Featured Projects
-| Project | Description |
-|--------|-------------|
-| [🔐 Role-Based Access Control](https://github.com/Divyanshu1Dubey/Role-Based-Access-Control) | Node.js backend with RBAC, image uploads, secure routing |
-| [🧠 Neural Network in Jupyter](https://github.com/Divyanshu1Dubey/NeuralNetwork) | Built a neural net from scratch, explored backprop and cost functions |
-| [🌐 Hackathon Code PU](https://github.com/Divyanshu1Dubey/PU_Code_-Hackathon-2.O) | End-to-end web solution for a university hackathon |
-| [📱 iPhone 16 Teaser](https://github.com/Divyanshu1Dubey/iPhone-16-release) | Designed a product landing page using HTML/CSS/JS |
-| [🛡️ Cyber Awareness Portal](https://github.com/Divyanshu1Dubey/hackthon) | Created a portal to spread cyber hygiene practices |
-
----
 
 ## 🧠 DevCard (Live Coding Profile)
 <a href="https://app.daily.dev/divyanshudubey">
