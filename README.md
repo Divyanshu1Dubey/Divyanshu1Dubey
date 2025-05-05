@@ -1,7 +1,21 @@
 <!-- GitHub README for Divyanshu Dubey -->
 
-<h1 align="center">Hi 👋, I'm Divyanshu Dubey</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | @ IIT Madras</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00ffe0;">Divyanshu Dubey</span>
+</h1>
+
+<h3 align="center">
+  🚀 Full Stack Developer | AI/ML Enthusiast | @ IIT Madras  
+</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/divyanshu-dubey-123abc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Divyanshu%20Dubey-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://divyanshudubey.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BS+in+Data+Science+@+IIT+Madras;Full+Stack+Developer+%F0%9F%92%BB;AI+%7C+ML+%7C+Web3+%7C+Open+Source;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
@@ -10,7 +24,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Divyanshu1Dubey&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
 
 
 ---
