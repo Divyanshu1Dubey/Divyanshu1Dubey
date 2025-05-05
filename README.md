@@ -40,7 +40,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ### 📊 GitHub Metrics
@@ -60,12 +60,12 @@
   <img src="https://streak-stats.demolab.com?user=Divyanshu1Dubey&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📅 Half-Year 3D Contributions
+### 📅 3D Contributions (Half Year)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Divyanshu1Dubey/Divyanshu1Dubey/main/profile-3d-contrib/profile-green-animate-half.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Divyanshu1Dubey/Divyanshu1Dubey/output/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contributions" />
 </p>
 
-### 💬 Daily Quote & Joke
+### 💬 Quote & Joke
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
   <br/>
@@ -87,7 +87,7 @@
 
 ## 🧠 DevCard (Live Coding Profile)
 <p align="center">
-  <a href="https://app.daily.dev/Divyanshu1Dubey"><img src="https://api.daily.dev/devcards/Divyanshu1Dubey.svg?type=default&r=oyh" width="400" alt="Divyanshu Dubey's Dev Card"/></a>
+  <img src="https://api.daily.dev/devcards?name=Divyanshu1Dubey&theme=default" width="400" alt="Divyanshu Dubey's Dev Card" />
 </p>
 
 ---
@@ -96,6 +96,10 @@
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Divyanshu1Dubey&data=followers,repositories,stars,commits" />
   <img src="https://github-widgetbox.vercel.app/api/stats?username=Divyanshu1Dubey&theme=dark" />
+  <br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Divyanshu1Dubey&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Divyanshu1Dubey&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
