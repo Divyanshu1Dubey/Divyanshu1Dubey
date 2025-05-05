@@ -104,12 +104,6 @@
 
 
 
-## 🧠 DevCard (Live Coding Profile)
-<a href="https://app.daily.dev/divyanshudubey">
-  <img src="https://api.daily.dev/devcards/divyanshudubey.svg" width="400" alt="Divyanshu Dubey's Dev Card"/>
-</a>
----
-
 
 
 
@@ -124,31 +118,30 @@
 
 ---
 
-## 📰 Weekly Dev Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
----
 
 ## 🔗 Connect With Me
-<p align="center">
-  <a href="mailto:divyanshudubey2712@gmail.com"><img src="https://img.shields.io/badge/Gmail-Divyanshu-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/divyanshu-dubey-123abc"><img src="https://img.shields.io/badge/LinkedIn-Divyanshu%20Dubey-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/Divyanshu1Dubey"><img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github" /></a>
-</p>
-
----
-
-## 📺 YouTube Preview
-<p align="center">
-  <a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" width="300" alt="Video" /></a>
-</p>
-
----
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,100:6C63FF&height=120&section=footer"/>
+  <a href="mailto:divyanshudubey2712@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Divyanshu-red?style=for-the-badge&logo=gmail" />
+  </a>
+  
+  <a href="https://linkedin.com/in/divyanshu-dubey-123abc">
+    <img src="https://img.shields.io/badge/LinkedIn-Divyanshu%20Dubey-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://github.com/Divyanshu1Dubey">
+    <img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github" />
+  </a>
+  
+  <a href="https://divyanshudubey.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox" />
+  </a>
 </p>
 
-![Metrics](https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/main/code-metrics.svg)
+
+
+
+
 
