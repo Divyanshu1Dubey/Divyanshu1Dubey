@@ -48,8 +48,7 @@
 ---
 
 ## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -102,4 +101,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,100:6C63FF&height=120&section=footer"/>
 </p>
-![Snake animation](https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg)
+
