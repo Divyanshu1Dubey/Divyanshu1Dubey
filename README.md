@@ -100,14 +100,21 @@
 ---
 
 ## 🧪 Plugins & Widgets
+
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Divyanshu1Dubey&data=followers,repositories,stars,commits" />
-  <img src="https://github-widgetbox.vercel.app/api/stats?username=Divyanshu1Dubey&theme=dark" />
-  <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Divyanshu1Dubey&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Divyanshu1Dubey&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true"/>
+  <!-- GitHub Profile Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyanshu1Dubey&theme=tokyonight" alt="Profile Details" />
+  
+  <!-- Repo & Lang Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divyanshu1Dubey&theme=tokyonight" alt="Repo Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Divyanshu1Dubey&theme=tokyonight" alt="Most Used Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divyanshu1Dubey&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Divyanshu1Dubey&theme=tokyonight&utcOffset=5.5" alt="Coding Time" />
+  
+  <!-- GitHub Activity Graph (Working alternative) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu1Dubey&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
