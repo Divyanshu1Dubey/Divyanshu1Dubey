@@ -38,10 +38,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu1Dubey&layout=compact&theme=tokyonight&hide=php,shell" />
 </p>
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake\
+[Snake animation](https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Divyanshu1Dubey/Divyanshu1Dubey/output/github-contribution-grid-snake-dark.svg" />
-  [Snake animation](https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ### 📊 GitHub Metrics
