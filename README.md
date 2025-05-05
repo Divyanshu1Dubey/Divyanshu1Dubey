@@ -60,10 +60,12 @@
   <img src="https://streak-stats.demolab.com?user=Divyanshu1Dubey&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📅 3D Contributions (Half Year)
-<img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/main/profile-3d-contrib/profile-green-animate.svg" />
+
+  ### 📅 3D Contribution Graph (Last 6 Months)
 <p align="center">
-  <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/main/profile-3d-contrib/profile-green-animate.svg" width="90%" style="max-width: 700px;" alt="3D GitHub Contribution Graph - Last 6 Months"/>
+</p>
+
 </p>
 
 ### 💬 Quote & Joke
