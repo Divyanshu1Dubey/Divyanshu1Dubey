@@ -32,10 +32,10 @@
 
 ## 🚀 GitHub Highlights
 
-### 📈 GitHub Stats (Recent)
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshu1Dubey&show_icons=true&theme=tokyonight&count_private=true&hide=issues&custom_title=My+Recent+GitHub+Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu1Dubey&layout=compact&theme=tokyonight&hide=php,shell" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshu1Dubey&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu1Dubey&layout=compact&theme=tokyonight&hide=php,shell" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -55,19 +55,22 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Divyanshu1Dubey&theme=gruvbox&no-frame=true&row=2&column=4" />
 </p>
 
-### 🔥 Contribution Streak
+### ✨ Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Divyanshu1Dubey&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🧊 3D Contributions (Working Version)
+### 📅 3D Contributions (Half Year)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Divyanshu1Dubey/Divyanshu1Dubey/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
+  <img src="https://raw.githubusercontent.com/Divyanshu1Dubey/Divyanshu1Dubey/output/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contributions" />
 </p>
 
-### 📅 Weekly Dev Time Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 💬 Quote & Joke
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <br/>
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" />
+</p>
 
 ---
 
@@ -81,15 +84,6 @@
 | [🛡️ Cyber Awareness Portal](https://github.com/Divyanshu1Dubey/hackthon) | Created a portal to spread cyber hygiene practices |
 
 ---
-
-## 🧠 DevCard (Live Coding Profile)
-> 🔧 Replace `YOUR-DEV-ID` with your Daily.dev DevCard username
-
-```html
-<p align="center">
-  <img src="https://api.daily.dev/devcards/YOUR-DEV-ID.png?theme=light" width="400" alt="Divyanshu's DevCard" />
-</p>
-
 
 ## 🧠 DevCard (Live Coding Profile)
 <p align="center">
