@@ -1,73 +1,89 @@
-<h1 align="center">Hi 👋, I'm Divyanshu Dubey</h1>
-<h3 align="center">🚀 Data Science @ IIT Madras | BTech CSE @ Parul University | Tech Head @ Cosmos | Hackathon Winner | AI & Web Dev Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Divyanshu Dubey</h1>
+<h3 align="center">🚀 Data Science @ IIT Madras | B.Tech CSE @ Parul University | Full-Stack & AI Developer | Olympiad🥇 | Building Smart Solutions for Real Problems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&width=440&lines=👨‍💻+Building+Solutions+with+AI+%26+ML;🚀+Finalist+Smart+India+Hackathon+2024;💡+Founder+%7C+Educator+%7C+Innovator" alt="Typing SVG" />
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=800&height=45&lines=AI+%2B+ML+Engineer+with+a+Vision+🧠;Turning+Ideas+into+Impact+💡;Full-Stack+Dev+%7C+Data+Wizard+%7C+Backend+Beast+⚙️;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 I'm pursuing **BS in Data Science from IIT Madras** and **BTech in Computer Science at Parul University**
-- 🧑‍🏫 Technical Team Head at [Cosmos (Tech Society)](https://example.com)
-- 🥇 **Gold Medalist in IOS (International Olympiad of Science)**
-- 🏆 **Winner at Parul Hackathon/Gamathon 2024**
-- 📈 Published work on **AI-driven Calorie Burn Prediction using Ensemble Models**
-- 🌍 Volunteer @ [Noble Citizen Foundation](https://www.noblecitizen.org/)
-- 💡 Finalist at **Smart India Hackathon 2024** for AI-Driven Healthcare System
+### 🔥 Who Am I?
+- 🎓 Pursuing **Data Science @ IIT Madras** + **B.Tech CSE @ Parul University**
+- 💻 Tech Head @ [Cosmos - Tech Society](#)
+- 🧠 AI/ML enthusiast | 🧪 Researcher | 💡 Innovator
+- 🥇 **Gold Medalist** - International Olympiad of Science (IOS)
+- 🏆 Hackathon Winner - Gamathon & Parul Hackathon 2024
+- 📜 Published Research - *AI-based Calorie Burn Prediction using Ensemble Models*
+- 🌍 Volunteering @ [Noble Citizen Foundation](https://www.noblecitizen.org/)
+- 🛠️ Developer of intelligent systems powered by Python, Flask, and Machine Learning
+- ⚡ Fun Fact: I turn caffeine into code and late nights into finished projects!
 
 ---
 
-### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
+### 🧰 Tech Toolbox
+
+#### 🚀 Languages & Frameworks:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
+![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask)
+
+#### 🧠 Data & ML:
+![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?style=for-the-badge&logo=tensorflow)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb)
+
+#### 💻 Tools & Environments:
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Project Highlights
+- **🩺 AI Healthcare Assistant** – Drug recommendations, disease prediction & pharmacy finder
+- **🔐 Role-Based Access Control App** – Secure image-based access using Node.js & MongoDB
+- **🧠 Neural Network Models** – Custom Jupyter notebooks for classification & regression
+- **📊 Calorie Burn Predictor** – ML-powered health tool with published research
+- **📚 AI Tutor System** – Adaptive learning platform powered by NLP and classification
+
+---
+
+### 📊 GitHub Highlights
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Divyanshu1Dubey&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu1Dubey&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Divyanshu1Dubey&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu1Dubey&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu1Dubey&theme=tokyo-night&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu1Dubey&theme=rogue&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 💡 Projects Spotlight
-- 🎯 **AI Healthcare Assistant** – Recommends drugs, predicts risk, finds pharmacies in real-time  
-- 🔐 **RBAC System** – Role-Based Access Control with image upload & Node.js backend  
-- 🧠 **Neural Network Models** – Built in Jupyter for custom classification tasks  
-- 📊 **Calorie Burn Predictor** – Published research with ensemble learning  
-
----
-
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-dubey-123abc)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divyanshu1Dubey)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshudubey2712@gmail.com)
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/divyanshu-dubey-123abc"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:divyanshudubey2712@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/Divyanshu1Dubey"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
 
 ### 🎮 Just for Fun
 ```bash
-> npx divyanshu-portfolio
+> npx divyanshu
 
-👨‍🎓 Name: Divyanshu Dubey
-📍 Location: Ahmedabad, India
-🎓 Dual Degrees: IIT Madras | Parul University
-💬 Skills: AI, ML, WebDev, DBMS, Flask, Django, APIs
-🏆 Fun Fact: I turn caffeine into code & ideas into products!
-🎸 Hobbies: Guitar 🎵 EDM Creation 🎶
+👨‍🎓 Dual-Degree Student: IIT Madras + Parul University
+🧠 Focus: AI, ML, Web Dev, DBMS, Flask, APIs
+🎯 Mission: Transform ideas into intelligent systems
+🎸 Hobby: Playing guitar, creating EDM
+☕ Motto: Code. Create. Conquer.
