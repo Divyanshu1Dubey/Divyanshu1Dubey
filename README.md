@@ -119,9 +119,9 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,100:6C63FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:0e75b6&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Divyanshu1Dubey/Divyanshu1Dubey/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </p>
