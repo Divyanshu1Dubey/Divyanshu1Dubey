@@ -1,15 +1,33 @@
 <!-- GitHub README for Divyanshu Dubey -->
 
-<h1 align="center">Hi 👋, I'm Divyanshu Dubey</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | @ IIT Madras</h3>
+<h1 align="center">
+  Hi there 👋, I'm <span style="color:#00ffe0;">Divyanshu Dubey</span>
+</h1>
+
+<h3 align="center">
+  🚀 Full Stack Developer | AI/ML Enthusiast | @ IIT Madras  
+  <br>
+  <em style="color: #aaaaaa; font-size: 16px;">Bringing Ideas to Life with Code & Creativity</em>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BS+in+Data+Science+@+IIT+Madras;Full+Stack+Developer+%F0%9F%92%BB;AI+%7C+ML+%7C+Web3+%7C+Open+Source;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/divyanshu-dubey-123abc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Divyanshu%20Dubey-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://divyanshudubey.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="mailto:divyanshudubey2712@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/Divyanshu1Dubey" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divyanshu1Dubey&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+---
+
+
 
 ---
 
