@@ -1,7 +1,7 @@
 <!-- GitHub README for Divyanshu Dubey -->
 
 <h1 align="center">Hi 👋, I'm Divyanshu Dubey</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | 2nd Year @ IIT Madras</h3>
+<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | @ IIT Madras</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BS+in+Data+Science+@+IIT+Madras;Full+Stack+Developer+%F0%9F%92%BB;AI+%7C+ML+%7C+Web3+%7C+Open+Source;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
@@ -15,11 +15,10 @@
 
 ## 🔥 About Me
 
-- 🎓 BS in Data Science @ IIT Madras (2nd Year)
+- 🎓 BS in Data Science @ IIT Madras
 - 🧑‍🏫 Founder of a growing tuition institute with 100+ students
 - 💡 Passionate about **AI**, **Automation**, and **Web3**
 - 💻 Tech Explorer | Pythonista | Frontend + Backend Dev
-- 🎸 Music Lover – EDM producer & Guitarist
 
 ---
 
@@ -38,16 +37,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu1Dubey&layout=compact&theme=tokyonight&hide=php,shell" />
 </p>
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+
 
 ### 📊 GitHub Metrics
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyanshu1Dubey&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divyanshu1Dubey&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Divyanshu1Dubey&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+## 🧪 Plugins & Widgets
+
+<p align="center">
+  <!-- GitHub Profile Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyanshu1Dubey&theme=tokyonight" alt="Profile Details" />
+  
+  <!-- Repo & Lang Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divyanshu1Dubey&theme=tokyonight" alt="Repo Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Divyanshu1Dubey&theme=tokyonight" alt="Most Used Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divyanshu1Dubey&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Divyanshu1Dubey&theme=tokyonight&utcOffset=5.5" alt="Coding Time" />
+  
+  <!-- GitHub Activity Graph (Working alternative) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu1Dubey&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ### 🏆 GitHub Trophies
@@ -98,21 +115,7 @@
 </a>
 ---
 
-## 🧪 Plugins & Widgets
 
-<p align="center">
-  <!-- GitHub Profile Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyanshu1Dubey&theme=tokyonight" alt="Profile Details" />
-  
-  <!-- Repo & Lang Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divyanshu1Dubey&theme=tokyonight" alt="Repo Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Divyanshu1Dubey&theme=tokyonight" alt="Most Used Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divyanshu1Dubey&theme=tokyonight" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Divyanshu1Dubey&theme=tokyonight&utcOffset=5.5" alt="Coding Time" />
-  
-  <!-- GitHub Activity Graph (Working alternative) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu1Dubey&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph" />
-</p>
 
 
 ---
