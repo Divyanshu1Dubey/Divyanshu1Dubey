@@ -61,6 +61,7 @@
 </p>
 
 ### 📅 3D Contributions (Half Year)
+<img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/main/profile-3d-contrib/profile-green-animate.svg" />
 <p align="center">
   <img src="https://raw.githubusercontent.com/Divyanshu1Dubey/Divyanshu1Dubey/output/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contributions" />
 </p>
