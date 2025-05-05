@@ -35,6 +35,7 @@
 <td>
 
 ![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyanshu1Dubey&show_icons=true&theme=radical&hide=issues&count_private=true)
+![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyanshu1Dubey&show_icons=true&theme=transparent)
 
 </td>
 <td>
