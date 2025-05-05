@@ -38,10 +38,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu1Dubey&layout=compact&theme=tokyonight&hide=php,shell" />
 </p>
 
-### 🐍 Contribution Snake\
-[Snake animation](https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Divyanshu1Dubey/Divyanshu1Dubey/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ### 📊 GitHub Metrics
@@ -53,12 +52,17 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divyanshu1Dubey&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Divyanshu1Dubey&theme=gruvbox&no-frame=true&row=2&column=4" />
 </p>
 
 ### ✨ Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Divyanshu1Dubey&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📅 Half-Year 3D Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Divyanshu1Dubey/Divyanshu1Dubey/main/profile-3d-contrib/profile-green-animate-half.svg" width="100%"/>
 </p>
 
 ### 💬 Daily Quote & Joke
@@ -73,11 +77,26 @@
 ## 🌟 Featured Projects
 | Project | Description |
 |--------|-------------|
-| [🔐 Role-Based Access Control](https://github.com/Divyanshu1Dubey/Role-Based-Access-Control) | Node.js backend with RBAC, image uploads, and secure views |
-| [🧠 Neural Network in Jupyter](https://github.com/Divyanshu1Dubey/NeuralNetwork) | Built a simple feedforward neural net from scratch |
-| [🌐 Hackathon Code PU](https://github.com/Divyanshu1Dubey/PU_Code_-Hackathon-2.O) | Frontend + backend solution for a hackathon |
-| [📱 iPhone 16 Teaser](https://github.com/Divyanshu1Dubey/iPhone-16-release) | Stylish landing page for hypothetical iPhone release |
-| [🛡️ Cyber Awareness Portal](https://github.com/Divyanshu1Dubey/hackthon) | HTML project promoting safe digital habits |
+| [🔐 Role-Based Access Control](https://github.com/Divyanshu1Dubey/Role-Based-Access-Control) | Node.js backend with RBAC, image uploads, secure routing |
+| [🧠 Neural Network in Jupyter](https://github.com/Divyanshu1Dubey/NeuralNetwork) | Built a neural net from scratch, explored backprop and cost functions |
+| [🌐 Hackathon Code PU](https://github.com/Divyanshu1Dubey/PU_Code_-Hackathon-2.O) | End-to-end web solution for a university hackathon |
+| [📱 iPhone 16 Teaser](https://github.com/Divyanshu1Dubey/iPhone-16-release) | Designed a product landing page using HTML/CSS/JS |
+| [🛡️ Cyber Awareness Portal](https://github.com/Divyanshu1Dubey/hackthon) | Created a portal to spread cyber hygiene practices |
+
+---
+
+## 🧠 DevCard (Live Coding Profile)
+<p align="center">
+  <a href="https://app.daily.dev/Divyanshu1Dubey"><img src="https://api.daily.dev/devcards/Divyanshu1Dubey.svg?type=default&r=oyh" width="400" alt="Divyanshu Dubey's Dev Card"/></a>
+</p>
+
+---
+
+## 🧪 Plugins & Widgets
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Divyanshu1Dubey&data=followers,repositories,stars,commits" />
+  <img src="https://github-widgetbox.vercel.app/api/stats?username=Divyanshu1Dubey&theme=dark" />
+</p>
 
 ---
 
@@ -93,13 +112,6 @@
 ## 📰 Weekly Dev Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
-
-## 🧠 DevCard
-<p align="center">
-  <img src="https://api.daily.dev/devcards?username=divyanshu1dubey&theme=dark&radius=10" width="400" alt="Dev Card"/>
-</p>
 
 ---
 
@@ -120,9 +132,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:0e75b6&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Divyanshu1Dubey/Divyanshu1Dubey/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,100:6C63FF&height=120&section=footer"/>
 </p>
