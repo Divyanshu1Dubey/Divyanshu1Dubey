@@ -93,14 +93,9 @@
 ---
 
 ## 🧠 DevCard (Live Coding Profile)
-<p align="center">
-  <img src="https://api.daily.dev/devcards?name=Divyanshu1Dubey&theme=default" width="400" alt="Divyanshu Dubey's Dev Card" />
-</p>
 <a href="https://app.daily.dev/divyanshudubey">
   <img src="https://api.daily.dev/devcards/divyanshudubey.svg" width="400" alt="Divyanshu Dubey's Dev Card"/>
 </a>
-
-
 ---
 
 ## 🧪 Plugins & Widgets
@@ -139,7 +134,7 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="mailto:divyanshudubey0405@gmail.com"><img src="https://img.shields.io/badge/Gmail-Divyanshu-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:divyanshudubey2712@gmail.com"><img src="https://img.shields.io/badge/Gmail-Divyanshu-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://linkedin.com/in/divyanshu-dubey-123abc"><img src="https://img.shields.io/badge/LinkedIn-Divyanshu%20Dubey-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/Divyanshu1Dubey"><img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github" /></a>
 </p>
