@@ -103,3 +103,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,100:6C63FF&height=120&section=footer"/>
 </p>
 
+<figure><embed src="https://wakatime.com/share/@Divyanshu1Dubey/48844322-1d64-497a-80f7-1eea7199bb62.svg"></embed></figure>
