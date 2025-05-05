@@ -1,0 +1,52 @@
+name: 🔁 Daily Activity Booster
+
+on:
+  schedule:
+    - cron: "0 5 * * *"  # Runs every day at 5 AM UTC
+  workflow_dispatch:
+
+jobs:
+  boost:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create random commit
+        run: |
+          echo "📅 $(date): Auto Activity Boost" >> activity.log
+          git config --global user.name 'divyanshu1dubey'
+          git config --global user.email 'divyanshu@example.com'
+          git add .
+          git commit -m "chore(auto): daily activity update"
+          git push
+
+      - name: Simulate Issue Activity
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository }}/issues \
+            -d '{"title":"Daily Check 🔁","body":"Automated activity issue. Ignore.","labels":["bot"]}'
+
+      - name: Fetch GitHub Trending Users (fake interaction)
+        run: |
+          curl -s https://api.github.com/users | jq '.[0:3] | .[] | .login'
+
+      - name: Simulate Pull Request (illusion)
+        run: |
+          git checkout -b temp-branch-${RANDOM}
+          echo "// illusion" >> illusion.js
+          git add .
+          git commit -m "feat: illusion PR"
+          git push origin HEAD
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository }}/pulls \
+            -d '{
+              "title":"Daily Fake PR 🚀",
+              "head":"temp-branch-${{ github.run_number }}",
+              "base":"main",
+              "body":"This is an auto-generated pull request. Ignore."
+            }'
