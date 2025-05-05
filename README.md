@@ -51,7 +51,8 @@
 <!-- Snake contribution graph -->
 <h2 align="center">🐍 Watch my contribution graph snake eat my commits!</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Divyanshu1Dubey/Divyanshu1Dubey/output/github-contribution-grid-snake.svg" />
+ ![Snake animation](https://github.com/divyanshu1dubey/divyanshu1dubey/blob/output/github-snake.svg)
+" />
 </p>
 
 ---
