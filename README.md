@@ -96,6 +96,10 @@
 <p align="center">
   <img src="https://api.daily.dev/devcards?name=Divyanshu1Dubey&theme=default" width="400" alt="Divyanshu Dubey's Dev Card" />
 </p>
+<a href="https://app.daily.dev/divyanshudubey">
+  <img src="https://api.daily.dev/devcards/divyanshudubey.svg" width="400" alt="Divyanshu Dubey's Dev Card"/>
+</a>
+
 
 ---
 
