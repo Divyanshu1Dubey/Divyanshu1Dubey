@@ -1,3 +1,8 @@
+## 📅 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h1 align="center">Hi, I'm Divyanshu Dubey 👋</h1>
 
 <p align="center">
