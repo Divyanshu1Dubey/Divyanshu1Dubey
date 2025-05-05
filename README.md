@@ -40,13 +40,6 @@
 
 
 ### 📊 GitHub Metrics
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyanshu1Dubey&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divyanshu1Dubey&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Divyanshu1Dubey&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-## 🧪 Plugins & Widgets
 
 <p align="center">
   <!-- GitHub Profile Stats Card -->
