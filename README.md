@@ -75,10 +75,10 @@
 ## 🌟 Featured Projects
 | Project | Description |
 |--------|-------------|
-| [🔐 Role-Based Access Control](https://github.com/Divyanshu1Dubey/Role-Based-Access-Control) | Node.js backend with RBAC, image uploads, secure routing |
+| [🔐 Role-Based Access Control](https://github.com/Divyanshu1Dubey/Role-Based-Access-Control-main) | Node.js backend with RBAC, image uploads, secure routing |
 | [🤖 AI-Powered Tutor System](https://github.com/Divyanshu1Dubey/Intel_Unnati_AI_tutor_project1) | Developed a unified AI-powered tutor system incorporating personalized student outcome predictions, NLP-based document question answering, real-time content recommendation, and a RAG pipeline with Streamlit for querying content-rich PDFs. |
 | [🌐 FirstCall/PU_Hackathon Code](https://github.com/Divyanshu1Dubey/FirstCall) | A real-time, AI-driven healthcare assistant built for university hackathon challenges |
-| [📱 iPhone 16 Teaser](https://github.com/Divyanshu1Dubey/iPhone-16-release) | Designed a product landing page using HTML/CSS/JS |
+| [📂 Automation Tool for August Ltd.](https://github.com/Divyanshu1Dubey/AUGUST_AUTOMATION_LAST) | A desktop UI app that automates folder/file management, email scheduling, and various system tasks for streamlined daily operations |
 | [🛡️ Cyber Awareness Portal](https://github.com/Divyanshu1Dubey/hackthon) | Created a portal to spread cyber hygiene practices |
 
 ---
