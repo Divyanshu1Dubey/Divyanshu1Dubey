@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | AI/ML Enthusiast | @ IIT Madras
+  🚀 Full Stack Developer | AI/ML Enthusiast | @IIT Madras
 </h3>
 
 <p align="center">
