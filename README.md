@@ -30,8 +30,7 @@
 
 ## 🔥 About Me
 
-- 🎓 BS in Data Science @ IIT Madras
-- 🧑‍🏫 Founder of a growing tuition institute with 100+ students
+- 🎓 Data Science @ IIT Madras
 - 💡 Passionate about **AI**, **Automation**, and **Web3**
 - 💻 Tech Explorer | Pythonista | Frontend + Backend Dev
 
