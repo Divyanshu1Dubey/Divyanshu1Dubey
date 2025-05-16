@@ -7,7 +7,6 @@
 <h3 align="center">
   🚀 Full Stack Developer | AI/ML Enthusiast | @IIT Madras
 </h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/divyanshu-dubey-123abc" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Divyanshu%20Dubey-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
