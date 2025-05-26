@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BS+in+Data+Science+@+IIT+Madras;Full+Stack+Developer+%F0%9F%92%BB;AI+%7C+ML+%7C+Web3+%7C+Open+Source;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=IIT+Madras;Full+Stack+Developer+%F0%9F%92%BB;AI+%7C+ML+%7C+Web3+%7C+Open+Source;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 <p align="center">
