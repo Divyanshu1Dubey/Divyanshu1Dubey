@@ -1,92 +1,104 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔥 DIVYANSHU DUBEY - SOFTWARE ENGINEER & AI BUILDER 🔥 -->
+<!--  DIVYANSHU DUBEY - ULTRA 3D CINEMATIC GITHUB PROFILE  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
+<!-- 3D ANIMATED HEADER - VENOM STYLE -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=300&section=header&text=DIVYANSHU%20DUBEY&fontSize=70&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=&descAlignY=60&stroke=58a6ff&strokeWidth=1" width="100%"/>
+
+<!-- ANIMATED INTRO GIF -->
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=200&section=header&text=DIVYANSHU%20DUBEY&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Systems%20That%20Actually%20Ship&descAlignY=58&descSize=16&descColor=a0a0a0" width="100%"/>
+<img src="https://raw.githubusercontent.com/rodrigograber/rodrigograber/main/header.gif" width="100%" alt="Matrix Animation"/>
 
-<!-- MAIN ROLE BADGES - HIGH CONTRAST -->
-<p>
-  <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML%20ENGINEER-ffffff?style=for-the-badge&logo=openai&logoColor=000000" />
-  <img src="https://img.shields.io/badge/STARTUP%20BUILDER-ffffff?style=for-the-badge&logo=producthunt&logoColor=000000" />
-</p>
+<!-- GLOWING NAME BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=⚡%20FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20STARTUP%20BUILDER%20⚡&height=80&fontSize=24&fontAlignY=50&animation=blink" width="100%"/>
 
-<!-- TYPING SVG - CLEAN AND POWERFUL -->
+<!-- ANIMATED TYPING - FUTURISTIC FONT -->
 <a href="https://github.com/Divyanshu1Dubey">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Shipped+10%2B+Production+Apps+%7C+Worked+with+Founders;Built+AI+Systems+with+99%25%2B+Accuracy;IEEE+Published+%7C+Hackathon+Winner+%7C+30%2B+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=BUILDING+THE+FUTURE+WITH+CODE+AND+AI" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- QUICK STATS ROW -->
+<!-- ANIMATED STATUS BADGES -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=700&height=30&lines=10%2B+Production+Apps+%E2%80%A2+IEEE+Published+%E2%80%A2+30%2B+Projects+%E2%80%A2+99%25%2B+ML+Accuracy" />
+
+<br/><br/>
+
+<!-- PREMIUM ROLE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Data%20Science-IIT%20Madras-1e88e5?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Projects-30%2B-43a047?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/IEEE-Published-f57c00?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Hackathons-2x%20Winner-9c27b0?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/◆_FULL_STACK_DEVELOPER-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/◆_AI%2FML_ENGINEER-c9a227?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/◆_STARTUP_BUILDER-238636?style=for-the-badge&labelColor=0d1117" />
 </p>
 
-<!-- PROFILE METRICS -->
+<!-- ANIMATED SOCIAL LINKS -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Divyanshu1Dubey&label=Profile%20Views&color=1e88e5&style=flat-square&labelColor=0d1117" />
-  <a href="https://github.com/Divyanshu1Dubey?tab=followers">
-    <img src="https://img.shields.io/github/followers/Divyanshu1Dubey?label=Followers&style=flat-square&color=43a047&labelColor=0d1117" />
-  </a>
-  <a href="https://github.com/Divyanshu1Dubey?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-30-f57c00?style=flat-square&labelColor=0d1117" />
-  </a>
+<a href="https://linkedin.com/in/divyanshu-dubey-123abc"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:divyanshudubey2712@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://divyanshudubey.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
 </p>
 
-<!-- CONNECT BUTTONS -->
+<!-- PROFILE STATS -->
 <p>
-  <a href="https://linkedin.com/in/divyanshu-dubey-123abc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:divyanshudubey2712@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://divyanshudubey.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=Divyanshu1Dubey&label=PROFILE+VIEWS&color=58a6ff&style=flat-square&labelColor=0d1117" />
+<a href="https://github.com/Divyanshu1Dubey?tab=followers"><img src="https://img.shields.io/github/followers/Divyanshu1Dubey?label=Followers&style=flat-square&color=238636&labelColor=0d1117" /></a>
+<img src="https://img.shields.io/github/stars/Divyanshu1Dubey?label=Stars&style=flat-square&color=c9a227&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/IIT_MADRAS-Data_Science-58a6ff?style=flat-square&labelColor=0d1117" />
 </p>
 
 </div>
 
----
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TERMINAL STYLE INTRO -->
-```js
-const divyanshu = {
-    role: "Full Stack Developer & AI Engineer",
-    focus: ["Production Apps", "AI/ML Systems", "Startup Tech"],
+<!-- ABOUT SECTION WITH TERMINAL -->
+<h2>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=false&width=200&height=30&lines=About+Me" />
+</h2>
 
-    shipped: {
-        productionApps: 10,
-        aiModels: "15+ with 94-99% accuracy",
-        liveUsers: "Active platforms serving real businesses",
-        publications: "IEEE Research Paper"
-    },
+```typescript
+class DivyanshuDubey {
+    readonly name = "Divyanshu Dubey";
+    readonly location = "India";
+    readonly education = "B.S. Data Science @ IIT Madras";
 
-    expertise: {
-        frontend: ["React", "Next.js 16", "TypeScript", "Tailwind CSS"],
-        backend: ["Django", "Flask", "FastAPI", "Node.js"],
-        ai_ml: ["TensorFlow", "PyTorch", "YOLOv8", "LangChain", "RAG"],
-        databases: ["PostgreSQL", "MongoDB", "Redis"]
-    },
+    readonly roles = [
+        "Full Stack Developer",
+        "AI/ML Engineer",
+        "Startup Tech Partner"
+    ];
 
-    philosophy: "Build fast. Ship faster. Learn always."
-};
+    readonly shipped = {
+        productionApps: "10+",
+        mlModels: "15+ with 94-99% accuracy",
+        publications: "IEEE Research Paper",
+        hackathonWins: 2
+    };
+
+    readonly workedWith = [
+        "Startup Founders",
+        "Business Owners",
+        "Research Teams",
+        "Hackathon Squads"
+    ];
+
+    readonly currentFocus = [
+        "Building AI-powered SaaS products",
+        "Shipping MVPs for startups",
+        "Research in ML & Computer Vision"
+    ];
+}
 ```
 
----
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- WHAT I BUILD -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22">
-  What I Build
+<!-- WHAT I DO - VISUAL CARDS -->
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=false&width=200&height=30&lines=What+I+Build" />
 </h2>
 
 <div align="center">
@@ -94,37 +106,56 @@ const divyanshu = {
 <tr>
 <td width="50%" valign="top">
 
-### AI-Powered Platforms
-```yaml
-Production Systems:
-  - Multi-provider AI platforms
-  - RAG pipelines (4000+ chunks)
-  - Disease prediction (94.8% acc)
-  - Crop recommendation (99.5% acc)
-  - Computer vision with YOLOv8
+<h3 align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="25">
+AI & Machine Learning
+</h3>
 
-Tech Stack:
-  TensorFlow, PyTorch, Scikit-learn
-  LangChain, FAISS, XGBoost
-  CNN, LSTM, Random Forest
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+</p>
+
+```yaml
+Production AI Systems:
+  ✦ Disease Prediction    → 94.8% Accuracy
+  ✦ Crop Recommendation   → 99.5% Accuracy
+  ✦ RAG Pipelines         → 4000+ Chunks
+  ✦ Computer Vision       → YOLOv8, CNN
+  ✦ NLP Models            → FAISS, LangChain
+
+Research:
+  ✦ IEEE Published Paper
+  ✦ Multi-provider AI platforms
+  ✦ Real-world ML deployments
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### SaaS & Enterprise Apps
+<h3 align="center">
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25">
+Full Stack & SaaS
+</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
+
 ```yaml
 Shipped Products:
-  - Hospital management systems
-  - AgriTech analytics platforms
-  - EdTech exam prep apps
-  - NGO & Business websites
+  ✦ Hospital Management   → 250+ daily orders
+  ✦ AgriTech Platform     → Production live
+  ✦ EdTech Exam System    → 2000+ questions
+  ✦ NGO/Business Websites → Multiple live
 
-Client Work:
-  - Built tech for multiple startups
-  - Digitalized business operations
-  - 250+ daily transactions
-  - Multi-role admin dashboards
+Startup Work:
+  ✦ Built tech for founders
+  ✦ Digitalized businesses
+  ✦ End-to-end SaaS development
 ```
 
 </td>
@@ -132,214 +163,256 @@ Client Work:
 </table>
 </div>
 
----
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TECH STACK -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22">
-  Tech Stack
+<!-- TECH ARSENAL - 3D ICONS -->
+<h2>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=false&width=200&height=30&lines=Tech+Arsenal" />
 </h2>
 
 <div align="center">
 
-<!-- Languages -->
+<!-- LANGUAGES -->
+<h4>Languages</h4>
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,cpp&theme=dark" />
+
+<h4>Frontend</h4>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap,figma&theme=dark" />
+
+<h4>Backend & Databases</h4>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,postgres,mongodb,redis,mysql&theme=dark" />
+
+<h4>AI/ML & Cloud</h4>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,azure,vercel,linux,git,github&theme=dark" />
+
 <br/><br/>
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap&theme=dark" />
-<br/><br/>
-
-<!-- Backend & DB -->
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,postgres,mongodb,redis&theme=dark" />
-<br/><br/>
-
-<!-- AI/ML & DevOps -->
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,linux,git,github,vercel,azure&theme=dark" />
+<!-- ADDITIONAL TOOLS -->
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0668E1?style=flat-square&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+</p>
 
 </div>
 
-<br/>
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-00FFFF?style=flat-square&logo=yolo&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/LangChain-RAG%20Pipelines-1C3C3C?style=flat-square&logo=chainlink&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/FAISS-Vector%20Search-3B5998?style=flat-square&logo=meta&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/XGBoost-ML%20Models-FF6600?style=flat-square&logo=xgboost&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Streamlit-ML%20Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0d1117" />
-
-</div>
-
----
-
-<!-- FLAGSHIP PROJECTS -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="22">
-  Featured Projects
+<!-- FEATURED PROJECTS - SHOWCASE STYLE -->
+<h2>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=false&width=250&height=30&lines=Featured+Projects" />
 </h2>
 
+<!-- PROJECT 1 -->
 <div align="center">
+<a href="https://github.com/Divyanshu1Dubey/Crack_Me_AI">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+</a>
+</div>
+
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### AI Exam Platform
-<a href="https://github.com/Divyanshu1Dubey/Crack_Me_AI">
-<img src="https://img.shields.io/badge/View%20Project-1e88e5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="20"> AI Exam Platform `Crack_Me_AI`
 
-**10 AI Providers • 2000+ Questions • RAG Pipeline**
+> **Multi-Provider AI • RAG Pipeline • 2000+ Questions**
 
-```
-✓ Multi-provider AI with auto-failover
-✓ RAG tutoring (4,972 knowledge chunks)
-✓ Adaptive testing & spaced repetition
-✓ JWT auth with token economy
-✓ Live: crack-me-ai1.vercel.app
-```
+<a href="https://github.com/Divyanshu1Dubey/Crack_Me_AI"><img src="https://img.shields.io/badge/VIEW_PROJECT-58a6ff?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://crack-me-ai1.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-238636?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Next.js%2016-black?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/Django%205-092E20?style=flat-square&logo=django"/>
-<img src="https://img.shields.io/badge/10%20AI%20APIs-FF6F00?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js"/>
+<img src="https://img.shields.io/badge/Django_5-092E20?style=flat-square&logo=django"/>
+<img src="https://img.shields.io/badge/10_AI_APIs-c9a227?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG_Pipeline-58a6ff?style=flat-square"/>
+</p>
 
 </td>
-<td width="50%">
-
-### Smart Agriculture AI
-<a href="https://github.com/Divyanshu1Dubey/AgriSens">
-<img src="https://img.shields.io/badge/View%20Project-43a047?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-**IEEE Published • 99.55% Accuracy • YOLOv8**
+<td width="40%">
 
 ```
-✓ Crop recommendation (99.55% acc)
-✓ Plant disease detection (38 classes)
-✓ CNN trained on 70,295 images
-✓ Weather & fertilizer integration
-✓ Research published at IEEE
+ ╔══════════════════════════╗
+ ║  ✓ 10 AI Providers       ║
+ ║  ✓ 4,972 Knowledge Chunks║
+ ║  ✓ Spaced Repetition     ║
+ ║  ✓ JWT Authentication    ║
+ ║  ✓ Auto AI Failover      ║
+ ╚══════════════════════════╝
 ```
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/IEEE-Published-f57c00?style=flat-square"/>
 
 </td>
 </tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 2 -->
+<table>
 <tr>
-<td width="50%">
-
-### Healthcare AI Assistant
-<a href="https://github.com/Divyanshu1Dubey/FirstCall">
-<img src="https://img.shields.io/badge/View%20Project-9c27b0?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-**Hackathon Winner • 94.8% Accuracy**
+<td width="40%">
 
 ```
-✓ Multi-disease prediction engine
-✓ X-ray image diagnosis
-✓ Real-time pharmacy locator
-✓ Doctor-patient communication
-✓ Medicine recommendation AI
+ ╔══════════════════════════╗
+ ║  ✓ 99.55% Accuracy       ║
+ ║  ✓ IEEE Published        ║
+ ║  ✓ 70,295 Images Trained ║
+ ║  ✓ 38 Disease Classes    ║
+ ║  ✓ YOLOv8 Detection      ║
+ ╚══════════════════════════╝
 ```
 
+</td>
+<td width="60%">
+
+### <img src="https://media.giphy.com/media/3oKIPsgVPHyPPG5p3a/giphy.gif" width="20"> Smart Agriculture AI `AgriSens`
+
+> **IEEE Published • 99.55% Accuracy • Computer Vision**
+
+<a href="https://github.com/Divyanshu1Dubey/AgriSens"><img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/IEEE_PAPER-c9a227?style=for-the-badge&logo=ieee&logoColor=white"/></a>
+
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-5C3EE8?style=flat-square"/>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Random_Forest-238636?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 3 -->
+<table>
+<tr>
+<td width="60%">
+
+### <img src="https://media.giphy.com/media/iFnBpFxFGetn8BH0vZ/giphy.gif" width="20"> Healthcare AI `FirstCall`
+
+> **Hackathon Winner • 94.8% Accuracy • Real-time**
+
+<a href="https://github.com/Divyanshu1Dubey/FirstCall"><img src="https://img.shields.io/badge/VIEW_PROJECT-9f7aea?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/🏆_HACKATHON_WINNER-c9a227?style=for-the-badge"/>
+
+<p>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/94.8%25-Accuracy-43a047?style=flat-square"/>
+<img src="https://img.shields.io/badge/94.8%25_Accuracy-238636?style=flat-square"/>
+</p>
 
 </td>
-<td width="50%">
-
-### AI Tutoring System
-<a href="https://github.com/Divyanshu1Dubey/Intel_Unnati_AI_tutor_project1">
-<img src="https://img.shields.io/badge/View%20Project-f57c00?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-**99.99% ML Accuracy • RAG + FAISS**
+<td width="40%">
 
 ```
-✓ Personalized learning paths
-✓ Student outcome prediction
-✓ Content recommendation engine
-✓ PDF Q&A with RAG pipeline
-✓ Adaptive assessment system
+ ╔══════════════════════════╗
+ ║  ✓ Multi-Disease AI      ║
+ ║  ✓ X-Ray Diagnosis       ║
+ ║  ✓ Pharmacy Locator      ║
+ ║  ✓ Doctor-Patient Chat   ║
+ ║  ✓ Medicine Recommender  ║
+ ╚══════════════════════════╝
 ```
-
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-3B5998?style=flat-square"/>
-<img src="https://img.shields.io/badge/99.99%25-Accuracy-1e88e5?style=flat-square"/>
 
 </td>
 </tr>
 </table>
-</div>
 
-<!-- MORE PROJECTS -->
+<br/>
+
+<!-- PROJECT 4 -->
+<table>
+<tr>
+<td width="40%">
+
+```
+ ╔══════════════════════════╗
+ ║  ✓ 99.99% ML Accuracy    ║
+ ║  ✓ RAG + FAISS Pipeline  ║
+ ║  ✓ Adaptive Learning     ║
+ ║  ✓ PDF Q&A System        ║
+ ║  ✓ Personalized Paths    ║
+ ╚══════════════════════════╝
+```
+
+</td>
+<td width="60%">
+
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"> AI Tutor System
+
+> **99.99% ML Accuracy • RAG Pipeline • FAISS**
+
+<a href="https://github.com/Divyanshu1Dubey/Intel_Unnati_AI_tutor_project1"><img src="https://img.shields.io/badge/VIEW_PROJECT-58a6ff?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<p>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-0668E1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-5C3EE8?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- MORE PROJECTS DROPDOWN -->
 <details>
-<summary align="center"><b>More Projects</b></summary>
+<summary><h4>More Projects (Click to Expand)</h4></summary>
 <br/>
 
 <div align="center">
 <table>
 <tr>
-<td width="33%">
-
-**Enterprise SaaS Platform**
-- Hospital management ERP
-- 250+ daily transactions
-- 5 role-based modules
-- Automated operations
-
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="40"/><br/>
+<b>Enterprise SaaS</b><br/>
+<sub>Hospital ERP • 250+ daily orders</sub><br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
 </td>
-<td width="33%">
-
-**AgriTech Platform**
-- Full-stack TypeScript
-- AI-driven analytics
-- Multi-language support
-- IoT integration ready
-
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="40"/><br/>
+<b>AgriTech Platform</b><br/>
+<sub>AI Analytics • Multi-language</sub><br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </td>
-<td width="33%">
-
-**Movie Revenue Predictor**
-- XGBoost (74% R²)
-- Sentiment analysis
-- Genre optimization
-- Box office insights
-
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="40"/><br/>
+<b>Movie Revenue AI</b><br/>
+<sub>XGBoost • 74% R²</sub><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td width="33%">
-
-**YOLOv8 Pest Detection**
-- Real-time detection
-- Fertilizer recommendations
-- Mobile-optimized inference
-- Agricultural AI
-
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="40"/><br/>
+<b>YOLOv8 Pest Detection</b><br/>
+<sub>Real-time • Agriculture</sub><br/>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
 </td>
-<td width="33%">
-
-**Desktop Automation Tool**
-- File management UI
-- Email scheduling
-- System task automation
-- Business operations
-
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="40"/><br/>
+<b>Desktop Automation</b><br/>
+<sub>File Mgmt • Email Scheduler</sub><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </td>
-<td width="33%">
-
-**NGO & Business Websites**
-- Production deployments
-- Vercel hosting
-- Modern UI/UX
-- SEO optimized
-
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="40"/><br/>
+<b>NGO & Business Sites</b><br/>
+<sub>Multiple Live Deployments</sub><br/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
 </td>
 </tr>
 </table>
@@ -347,29 +420,38 @@ Client Work:
 
 <p align="center">
 <a href="https://github.com/Divyanshu1Dubey?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%2030%2B%20PROJECTS-1e88e5?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_ALL_30%2B_PROJECTS-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 </details>
 
----
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GITHUB STATS -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22">
-  GitHub Analytics
+<!-- GITHUB ANALYTICS -->
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=false&width=250&height=30&lines=GitHub+Analytics" />
 </h2>
 
+<!-- STATS ROW -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Divyanshu1Dubey&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu1Dubey&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu1Dubey&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=c9a227&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e" />
 </p>
 
+<!-- LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu1Dubey&custom_title=Contribution%20Graph&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="98%" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu1Dubey&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=php,shell" />
 </p>
 
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu1Dubey&custom_title=Contribution%20Activity&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9a227&area_color=238636" width="98%" />
+</p>
+
+<!-- PROFILE SUMMARY -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyanshu1Dubey&theme=github_dark" width="98%" />
 </p>
@@ -380,87 +462,107 @@ Client Work:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Divyanshu1Dubey&theme=github_dark&utcOffset=5.5" width="32%" />
 </div>
 
----
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- 3D CONTRIBUTIONS -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/l0HlTF9NAHQPDB16U/giphy.gif" width="22">
-  3D Contribution Graph
+<!-- 3D CONTRIBUTION GRAPHS -->
+<h2>
+<img src="https://media.giphy.com/media/l0HlTF9NAHQPDB16U/giphy.gif" width="28">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=false&width=350&height=30&lines=3D+Contribution+Universe" />
 </h2>
 
+<!-- MAIN 3D GRAPH -->
 <p align="center">
   <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions"/>
 </p>
 
+<!-- MORE 3D VIEWS -->
 <details>
-<summary align="center"><b>More 3D Views</b></summary>
+<summary align="center"><b>More 3D Visualizations</b></summary>
 <br/>
 <p align="center">
   <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/main/profile-3d-contrib/profile-green-animate.svg" width="49%" />
+  <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/main/profile-3d-contrib/profile-season-animate.svg" width="49%" />
+</p>
+<p align="center">
   <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/main/profile-3d-contrib/profile-gitblock.svg" width="49%" />
+  <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/main/profile-3d-contrib/profile-night-view.svg" width="49%" />
 </p>
 </details>
 
----
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- SNAKE -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="22">
-  Contribution Snake
+<!-- CONTRIBUTION SNAKE -->
+<h2>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=false&width=300&height=30&lines=Contribution+Snake" />
 </h2>
 
 <p align="center">
-  <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://github.com/Divyanshu1Dubey/Divyanshu1Dubey/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
----
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- TROPHIES -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="22">
-  Trophies
+<h2>
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="28">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=false&width=200&height=30&lines=Trophy+Cabinet" />
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divyanshu1Dubey&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Divyanshu1Dubey&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 </p>
 
----
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- WORK WITH ME -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="22">
-  Work With Me
+<!-- CONNECT / HIRE ME -->
+<h2>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=false&width=250&height=30&lines=Let's+Connect" />
 </h2>
 
 <div align="center">
 
+<!-- TERMINAL CONTACT CARD -->
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  👨‍💻 What I Do:                                              │
-│     • Build AI-powered products from 0 to production       │
-│     • Develop SaaS platforms & enterprise systems          │
-│     • Digitalize startup operations                        │
-│     • Create ML models with 94-99%+ accuracy               │
-│                                                             │
-│  🤝 I've Worked With:                                       │
-│     • Startup founders building their first product        │
-│     • Businesses needing digital transformation            │
-│     • Research teams on ML publications                    │
-│     • Hackathon teams winning competitions                 │
-│                                                             │
-│  📬 divyanshudubey2712@gmail.com                           │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║   👨‍💻  WHAT I DO                                                       ║
+║   ─────────────────────────────────────────────────────────────────   ║
+║   ▸ Build AI-powered products from idea to production                ║
+║   ▸ Develop SaaS platforms for startups                              ║
+║   ▸ Create ML models with 94-99% accuracy                            ║
+║   ▸ Ship MVPs fast - weeks, not months                               ║
+║                                                                       ║
+║   🤝  I'VE WORKED WITH                                                ║
+║   ─────────────────────────────────────────────────────────────────   ║
+║   ▸ Startup founders building their first product                    ║
+║   ▸ Businesses needing digital transformation                        ║
+║   ▸ Research teams on ML publications                                ║
+║   ▸ Hackathon teams winning competitions                             ║
+║                                                                       ║
+║   📬  REACH OUT                                                       ║
+║   ─────────────────────────────────────────────────────────────────   ║
+║   ▸ Email: divyanshudubey2712@gmail.com                              ║
+║   ▸ LinkedIn: linkedin.com/in/divyanshu-dubey-123abc                 ║
+║   ▸ Portfolio: divyanshudubey.netlify.app                            ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
+<br/>
+
+<!-- CTA BUTTONS -->
 <p>
   <a href="https://linkedin.com/in/divyanshu-dubey-123abc">
-    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:divyanshudubey2712@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://divyanshudubey.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -469,25 +571,26 @@ Client Work:
 
 </div>
 
----
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- QUOTE -->
+<!-- RANDOM QUOTE -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Abraham%20Lincoln" />
 </p>
 
-<!-- FOOTER -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%" />
-</div>
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-<!--
- ____  _                           _
-|  _ \(_)_   ___   _  __ _ _ __ __| |_   _
-| | | | \ \ / / | | |/ _` | '__/ _` | | | |
-| |_| | |\ V /| |_| | (_| | | | (_| | |_| |
-|____/|_| \_/  \__, |\__,_|_|  \__,_|\__,_|
-               |___/
+<!-- EASTER EGG -->
 
-Easter egg found! Let's build something amazing together.
--->
+██████╗ ██╗██╗   ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗
+██╔══██╗██║██║   ██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║
+██║  ██║██║██║   ██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║██║   ██║
+██║  ██║██║╚██╗ ██╔╝  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║
+██████╔╝██║ ╚████╔╝    ██║   ██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝
+╚═════╝ ╚═╝  ╚═══╝     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
+
+🥚 You found the Easter Egg! Let's build something legendary together.
+📧 divyanshudubey2712@gmail.com
+
