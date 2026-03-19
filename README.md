@@ -9,15 +9,23 @@
 
 <!-- DYNAMIC ROLE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/IIT%20MADRAS-Data%20Science-gold?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDNMIDEgOXY0bDExIDZsMTEtNlY5TDEyIDN6bTAgMTQuMjJMMyAxMi4wNFY5LjgyTDEyIDQuNzJsMCA5Ljg1bDkgNC44NXYyLjE2bC05IDQuODV6Ii8+PC9zdmc+&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Research%20Intern-Micro--Nano%20R&D%20Centre-cyan?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Intel%20Unnati-Elite%20Cohort-blue?style=for-the-badge&logo=intel&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-00ffe0?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/AI%2FML%20Engineer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-blueviolet?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0D1117" />
 </p>
 
-<!-- ANIMATED TYPING SVG WITH MULTIPLE ROLES -->
+<!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/Divyanshu1Dubey">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%94%AC+Research+%40+Micro-Nano+R%26D+%7C+Built+ML+Models+with+94.8%25+Accuracy;%F0%9F%92%BB+Building+Enterprise+SaaS+%7C+Hospital+ERP+%7C+AgriTech+AI+Platforms;%F0%9F%8F%86+JEE+Advanced+%7C+VITEEE+AIR+7123+%7C+Intel+Elite+%7C+Hackathon+Winner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Built+SaaS+Platforms+for+Startups;Worked+with+Founders+%26+CTOs;Shipped+Products+with+250%2B+Daily+Users;From+Idea+to+Production+in+Weeks" alt="Typing SVG" />
 </a>
+
+<!-- EDUCATION & RECOGNITION BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/IIT%20MADRAS-B.S.%20Data%20Science-gold?style=flat-square&logo=google-scholar&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Research%20Intern-Micro--Nano%20R%26D-cyan?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Intel%20Unnati-Elite%20Cohort-0071C5?style=flat-square&logo=intel&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/2x-Hackathon%20Winner-orange?style=flat-square&logo=hackaday&logoColor=white&labelColor=1a1a2e" />
+</p>
 
 <!-- PROFILE VIEWS & SOCIAL PROOF -->
 <p>
