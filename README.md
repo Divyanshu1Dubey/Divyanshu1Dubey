@@ -15,7 +15,7 @@
 <br/>
 
 <!-- SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Full+Stack+Developer+%7C+AI+Engineer+%7C+Startup+Builder" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=238636&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Full+Stack+Developer+%7C+AI+Engineer+%7C+Startup+Builder" alt="Subtitle" />
 
 <!-- TAGLINE -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=550&height=25&lines=Building+the+future+with+code+and+AI+%F0%9F%9A%80" />
