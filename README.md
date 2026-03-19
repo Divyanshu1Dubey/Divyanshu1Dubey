@@ -2,26 +2,33 @@
 <!--  DIVYANSHU DUBEY - ULTRA 3D CINEMATIC GITHUB PROFILE  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- 3D ANIMATED HEADER - VENOM STYLE -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=300&section=header&text=DIVYANSHU%20DUBEY&fontSize=70&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=&descAlignY=60&stroke=58a6ff&strokeWidth=1" width="100%"/>
+<!-- WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f3460,100:16213e&height=180&section=header" width="100%"/>
 
-<!-- ANIMATED INTRO GIF -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rodrigograber/rodrigograber/main/header.gif" width="100%" alt="Matrix Animation"/>
-
-<!-- GLOWING NAME BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=⚡%20FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20STARTUP%20BUILDER%20⚡&height=80&fontSize=24&fontAlignY=50&animation=blink" width="100%"/>
-
-<!-- ANIMATED TYPING - FUTURISTIC FONT -->
+<!-- 3D ANIMATED NAME - LARGE TYPING EFFECT -->
 <a href="https://github.com/Divyanshu1Dubey">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=BUILDING+THE+FUTURE+WITH+CODE+AND+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=65&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=100&lines=DIVYANSHU+DUBEY" alt="Name" />
 </a>
 
 <br/>
 
-<!-- ANIMATED STATUS BADGES -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=700&height=30&lines=10%2B+Production+Apps+%E2%80%A2+IEEE+Published+%E2%80%A2+30%2B+Projects+%E2%80%A2+99%25%2B+ML+Accuracy" />
+<!-- SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Full+Stack+Developer+%7C+AI+Engineer+%7C+Startup+Builder" alt="Subtitle" />
+
+<!-- TAGLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=550&height=25&lines=Building+the+future+with+code+and+AI+%F0%9F%9A%80" />
+
+<br/>
+
+<!-- QUICK STATS -->
+<p>
+<img src="https://img.shields.io/badge/10%2B-Production_Apps-58a6ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/IEEE-Published-238636?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/30%2B-Projects-c9a227?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/99%25%2B-ML_Accuracy-9f7aea?style=flat-square&labelColor=0d1117" />
+</p>
 
 <br/><br/>
 
@@ -583,7 +590,7 @@ Startup Work:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <!-- EASTER EGG -->
-
+<!--
 ██████╗ ██╗██╗   ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗
 ██╔══██╗██║██║   ██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║
 ██║  ██║██║██║   ██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║██║   ██║
@@ -593,4 +600,4 @@ Startup Work:
 
 🥚 You found the Easter Egg! Let's build something legendary together.
 📧 divyanshudubey2712@gmail.com
-
+-->
