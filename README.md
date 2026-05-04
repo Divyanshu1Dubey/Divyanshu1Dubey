@@ -7,6 +7,7 @@
 
 <div align="center">
 
+
 <!-- 3D ANIMATED NAME - LARGE TYPING EFFECT -->
 <a href="https://github.com/Divyanshu1Dubey">
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=65&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=100&lines=DIVYANSHU+DUBEY" alt="Name" />
